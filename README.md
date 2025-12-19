@@ -105,14 +105,6 @@ Aprendo principalmente através da prática, desenvolvendo projetos reais que re
 
 ---
 
-## 🐍 Animação de Contribuições (Snake)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Diego-godoi/Diego-godoi/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
----
-
 ## 🌐 Onde me encontrar
 
 <p align="center">
