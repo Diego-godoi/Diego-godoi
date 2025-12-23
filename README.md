@@ -1,40 +1,39 @@
-<!-- Banner de digitação animado -->
+<!-- Animated typing banner -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&lines=Desenvolvedor+Full+Stack;Java+%7C+Spring+Boot+%7C+Clean+Architecture;Vue.js+%7C+Vuetify+%7C+TypeScript;Foco+em+boas+pr%C3%A1ticas+e+arquitetura+de+software"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Clean+Architecture;Vue.js+%7C+Vuetify+%7C+TypeScript;Focused+on+best+practices+and+software+architecture"
     alt="Typing SVG"
   />
 </p>
 
-
-<h1 align="center">👋 Olá, eu sou o Diego Godoi</h1>
+<h1 align="center">👋 Hi, I'm Diego Godoi</h1>
 
 <p align="center">
-  🎓 Técnico em Informática • 💻 Desenvolvedor Full Stack em formação • 🚀 Clean Code & Arquitetura
+  🎓 IT Technician • 💻 Full Stack Developer in training • 🚀 Clean Code & Architecture
 </p>
 
 ---
 
-## 🧠 Sobre mim
+## 🧠 About Me
 
-Sou **Técnico em Informática**, com foco em **desenvolvimento web** e **arquitetura de software**.  
-Tenho experiência prática no desenvolvimento de aplicações **front-end e back-end**, sempre buscando escrever código **limpo**, **organizado** e **manutenível**.
+I am an **IT Technician** with a strong focus on **web development** and **software architecture**.  
+I have hands-on experience building **front-end and back-end applications**, always aiming to write **clean**, **organized**, and **maintainable** code.
 
-Aplico no dia a dia conceitos como:
+In my daily work, I apply concepts such as:
 
-- **Programação Orientada a Objetos**
+- **Object-Oriented Programming**
 - **SOLID**
 - **Clean Architecture**
-- **Arquitetura em Camadas**
-- **Desacoplamento entre sistemas**
+- **Layered Architecture**
+- **System Decoupling**
 
-Aprendo principalmente através da prática, desenvolvendo projetos reais que refletem minha evolução técnica.
+I learn mainly through practice, developing real projects that reflect my technical growth.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Technologies & Tools
 
-### 💻 Linguagens & Frameworks
+### 💻 Languages & Frameworks
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
@@ -43,22 +42,22 @@ Aprendo principalmente através da prática, desenvolvendo projetos reais que re
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
-### 🧠 Arquitetura & Conceitos
-<p >
-  <img src="https://img.shields.io/badge/POO-000000?style=for-the-badge"/>
+### 🧠 Architecture & Concepts
+<p>
+  <img src="https://img.shields.io/badge/OOP-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SOLID-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Arquitetura_em_Camadas-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Layered_Architecture-000000?style=for-the-badge"/>
 </p>
 
-### 🗄️ Banco de Dados
-<p ">
+### 🗄️ Databases
+<p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### ⚙️ DevOps & Ferramentas
-<p >
+### ⚙️ DevOps & Tools
+<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -68,27 +67,38 @@ Aprendo principalmente através da prática, desenvolvendo projetos reais que re
 
 ---
 
-## 📌 Projetos em Destaque
+## 📌 Featured Projects
 
-### 🔹 Sistema de Gerenciamento de Pessoas
-- Front-end em **Vue 3 + Vuetify**
-- Back-end em **Java + Spring Boot**
-- Arquitetura baseada em **Clean Architecture**
-- Autenticação com **JWT**
-- Integração completa entre front-end e back-end
+### 🔹 User Management System — Front-end
 
-### 🔹 API REST com Clean Architecture
-- Java + Spring Boot
-- Separação clara de camadas
-- Uso de DTOs, Services e Controllers
-- Documentação com Swagger
-- Testes automatizados
+- Built with **Vue 3, Vuetify, and TypeScript**
+- Structured with **scalable front-end architecture**
+- State management using **Pinia**
+- Routing handled by **Vue Router**
+- API communication isolated in a **services layer (Axios)**
+- Form validation with **Vee-Validate** and **Yup**
+- Automated tests using **Vitest** and **MSW**
+- Designed to consume a **Clean Architecture–based REST API**
+- Production-ready setup using **Docker** and **Nginx**
 
-> 📌 *Outros projetos seguem o mesmo padrão de organização, aprendizado contínuo e boas práticas.*
+### 🔹 Clean Architecture REST API
+
+- Built with **Java 21** and **Spring Boot**
+- Designed following **Clean Architecture** principles
+- Clear separation between **core, application, adapter, and infrastructure layers**
+- Business rules fully isolated from frameworks and external concerns
+- Use cases implemented in the **application layer**
+- REST controllers acting only as **delivery mechanisms**
+- API documentation powered by **Swagger / OpenAPI 3.0**
+- Containerized with **Docker** and **Docker Compose**
+- Production-ready configuration with environment variables
+
+
+> 📌 *Other projects follow the same standards of organization, continuous learning, and best practices.*
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Statistics
 
 <p align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Diego-godoi&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -97,7 +107,7 @@ Aprendo principalmente através da prática, desenvolvendo projetos reais que re
 
 ---
 
-## 🔥 Sequência de Contribuições
+## 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diego-godoi&theme=tokyonight&hide_border=true"/>
@@ -105,7 +115,7 @@ Aprendo principalmente através da prática, desenvolvendo projetos reais que re
 
 ---
 
-## 🌐 Onde me encontrar
+## 🌐 Where to find me
 
 <p align="center">
   <a href="https://instagram.com/_.godoi_">
@@ -113,7 +123,7 @@ Aprendo principalmente através da prática, desenvolvendo projetos reais que re
   </a>
   &nbsp;&nbsp;
   <a href="mailto:diegogodoimartins.11@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://hub.docker.com/u/diegos01">
@@ -123,5 +133,5 @@ Aprendo principalmente através da prática, desenvolvendo projetos reais que re
 
 ---
 
-⭐ **Sinta-se à vontade para explorar meus repositórios.**  
-Se algum projeto for útil ou interessante, uma estrela é sempre bem-vinda!
+⭐ **Feel free to explore my repositories.**  
+If any project is useful or interesting, a star is always welcome!
